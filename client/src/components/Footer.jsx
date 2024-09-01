@@ -7,8 +7,8 @@ function Footer() {
 				<hr />
 				<div className="bottom">
 					<div className="left">
-						<h2>doWork</h2>
-						<span>© doWork 2024</span>
+						<h2>Rojgar</h2>
+						<span>© Rojgar 2024</span>
 					</div>
 					<div className="right">
 						<div className="social">

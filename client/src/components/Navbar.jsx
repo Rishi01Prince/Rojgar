@@ -37,7 +37,7 @@ function Navbar() {
 			<div className="container">
 				<div className="logo">
 					<Link className="link" to="/">
-						<span className="text">doWork</span>
+						<span className="text">Rojgar</span>
 					</Link>
 					<span className="dot">.</span>
 				</div>
